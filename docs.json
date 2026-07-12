@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "lifeyt",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#f9860e",
+    "light": "#f9860e",
+    "dark": "#db8400"
   },
   "favicon": "/favicon.svg",
   "navigation": {
