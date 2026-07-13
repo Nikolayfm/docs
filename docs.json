@@ -71,7 +71,7 @@
     }
   },
   "logo": {
-    "light": "/images/ЖЮилинк.PNG",
+    "light": "/images/dark.PNG",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
