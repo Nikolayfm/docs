@@ -43,7 +43,7 @@
         ]
       },
       {
-        "tab": "Код для интеграции (разработчикам)",
+        "tab": "API платежей",
         "groups": [
           {
             "group": "API documentation",
