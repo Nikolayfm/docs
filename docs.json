@@ -72,7 +72,7 @@
   },
   "logo": {
     "light": "/images/dark.PNG",
-    "dark": "/images/dark_2x.png"
+    "dark": "/images/dark_2x_cropped.png"
   },
   "navbar": {
     "links": [
