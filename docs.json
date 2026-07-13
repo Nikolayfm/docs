@@ -14,60 +14,58 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Untitled Tab",
+        "tab": "RUBL",
         "products": [
           {
-            "product": "Untitled Product",
-            "tabs": [
-              {
-                "tab": "Guides",
-                "groups": [
-                  {
-                    "group": "Getting started",
-                    "pages": [
-                      "index",
-                      "basics",
-                      "development"
-                    ]
-                  },
-                  {
-                    "group": "Customization",
-                    "pages": [
-                      "essentials/settings",
-                      "essentials/navigation"
-                    ]
-                  },
-                  {
-                    "group": "Writing content",
-                    "pages": [
-                      "essentials/markdown",
-                      "essentials/code",
-                      "essentials/images",
-                      "essentials/reusable-snippets"
-                    ]
-                  }
-                ]
-              },
-              {
-                "tab": "API платежей",
-                "groups": [
-                  {
-                    "group": "API documentation",
-                    "pages": [
-                      "api-reference/introduction"
-                    ]
-                  },
-                  {
-                    "group": "Endpoint examples",
-                    "pages": [
-                      "api-reference/endpoint/get",
-                      "api-reference/endpoint/create",
-                      "api-reference/endpoint/delete",
-                      "api-reference/endpoint/webhook"
-                    ]
-                  }
-                ]
-              }
+            "product": "Untitled Product"
+          }
+        ]
+      },
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": [
+              "index",
+              "basics",
+              "development"
+            ]
+          },
+          {
+            "group": "Customization",
+            "pages": [
+              "essentials/settings",
+              "essentials/navigation"
+            ]
+          },
+          {
+            "group": "Writing content",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/reusable-snippets"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API платежей",
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
             ]
           }
         ]
