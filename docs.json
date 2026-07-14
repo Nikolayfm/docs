@@ -12,74 +12,6 @@
     "dark": "/images/Лого5.png"
   },
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Начало",
-        "groups": [
-          {
-            "group": "Start",
-            "pages": [
-              "index",
-              "basics",
-              "development"
-            ]
-          },
-          {
-            "group": "Доходность",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Интеграции",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API платежей",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ],
-            "hidden": true
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          },
-          {
-            "group": "для tg-ботов (и мини-аппов)",
-            "icon": "telegram-plane",
-            "pages": []
-          },
-          {
-            "group": "для web",
-            "icon": "chrome",
-            "pages": []
-          }
-        ]
-      },
-      {
-        "tab": "История"
-      },
-      {
-        "tab": "Ссылки и контакты"
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -88,7 +20,80 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "dropdowns": [
+      {
+        "dropdown": "Тест",
+        "tabs": [
+          {
+            "tab": "Начало",
+            "groups": [
+              {
+                "group": "Start",
+                "pages": [
+                  "index",
+                  "basics",
+                  "development"
+                ]
+              },
+              {
+                "group": "Доходность",
+                "pages": [
+                  "essentials/settings",
+                  "essentials/navigation"
+                ]
+              },
+              {
+                "group": "Интеграции",
+                "pages": [
+                  "essentials/markdown",
+                  "essentials/code",
+                  "essentials/images",
+                  "essentials/reusable-snippets"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API платежей",
+            "groups": [
+              {
+                "group": "API documentation",
+                "hidden": true,
+                "pages": [
+                  "api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Endpoint examples",
+                "pages": [
+                  "api-reference/endpoint/get",
+                  "api-reference/endpoint/create",
+                  "api-reference/endpoint/delete",
+                  "api-reference/endpoint/webhook"
+                ]
+              },
+              {
+                "group": "для tg-ботов (и мини-аппов)",
+                "icon": "telegram-plane",
+                "pages": []
+              },
+              {
+                "group": "для web",
+                "icon": "chrome",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "tab": "История"
+          },
+          {
+            "tab": "Ссылки и контакты"
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/dark_2x_black_text.png",
