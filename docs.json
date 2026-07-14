@@ -58,7 +58,8 @@
             "group": "API documentation",
             "pages": [
               "api-reference/introduction"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "Endpoint examples",
@@ -70,7 +71,8 @@
             ]
           },
           {
-            "group": "l",
+            "group": "для tg-ботов (и мини-аппов)",
+            "icon": "telegram-plane",
             "pages": []
           }
         ]
