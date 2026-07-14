@@ -74,6 +74,11 @@
             "group": "для tg-ботов (и мини-аппов)",
             "icon": "telegram-plane",
             "pages": []
+          },
+          {
+            "group": "для web",
+            "icon": "chrome",
+            "pages": []
           }
         ]
       },
