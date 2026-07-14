@@ -21,9 +21,7 @@
         }
       ]
     },
-    "dropdowns": [
-      {
-        "dropdown": "Тест",
+
         "tabs": [
           {
             "tab": "Начало",
