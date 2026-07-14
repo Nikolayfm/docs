@@ -1,27 +1,64 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
   "name": "lifeyt",
+  "description": "Ruble stablecoin for telegram usage | LIFEYT",
   "colors": {
     "primary": "#ff9523",
     "light": "#ff9523",
     "dark": "#ff9523"
   },
+  "logo": {
+    "light": "/images/dark_2x_black_text.png",
+    "dark": "/images/dark_2x_cropped.png"
+  },
   "favicon": {
     "light": "/images/Лого5.png",
     "dark": "/images/Лого5.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "href": "https://telegram.me/Sunrise2World",
+        "label": "Support"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "chat",
+      "href": "https://t.me/lifeyt_chat_pro_token"
+    }
+  },
+  "footer": {
+    "socials": {
+      "telegram": "https://telegram.me/lifeyt"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ],
+    "display": "header"
   },
   "navigation": {
     "global": {
       "anchors": [
         {
           "anchor": "Blog",
-          "href": "https://t.me/lifeytPeople",
-          "icon": "newspaper"
+          "icon": "newspaper",
+          "href": "https://t.me/lifeytPeople"
         }
       ]
     },
-
+    "dropdowns": [
+      {
+        "dropdown": "Тест",
         "tabs": [
           {
             "tab": "Начало",
@@ -88,44 +125,12 @@
           },
           {
             "tab": "Ссылки и контакты"
+          },
+          {
+            "tab": "Untitled Tab"
           }
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/images/dark_2x_black_text.png",
-    "dark": "/images/dark_2x_cropped.png"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "https://telegram.me/Sunrise2World"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "chat",
-      "href": "https://t.me/lifeyt_chat_pro_token"
-    }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
-  },
-  "footer": {
-    "socials": {
-      "telegram": "https://telegram.me/lifeyt"
-    }
-  },
-  "description": "Ruble stablecoin for telegram usage | LIFEYT"
+  }
 }
