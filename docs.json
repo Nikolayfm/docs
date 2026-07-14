@@ -48,7 +48,8 @@
               "essentials/reusable-snippets"
             ]
           }
-        ]
+        ],
+        "icon": "1"
       },
       {
         "tab": "API платежей",
