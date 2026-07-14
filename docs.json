@@ -92,7 +92,12 @@
             "tab": "Ссылки и контакты",
             "anchors": [
               {
-                "anchor": "тест"
+                "anchor": "тест",
+                "versions": [
+                  {
+                    "version": "в1"
+                  }
+                ]
               }
             ]
           }
