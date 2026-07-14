@@ -14,14 +14,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "RUBL",
-        "products": [
-          {
-            "product": "Untitled Product"
-          }
-        ]
-      },
-      {
         "tab": "Начало",
         "groups": [
           {
@@ -48,8 +40,7 @@
               "essentials/reusable-snippets"
             ]
           }
-        ],
-        "icon": "1"
+        ]
       },
       {
         "tab": "API платежей",
