@@ -79,10 +79,9 @@
               {
                 "group": "Интеграции",
                 "pages": [
-                  "essentials/markdown",
-                  "essentials/code",
-                  "essentials/images",
-                  "essentials/reusable-snippets"
+                  "integrations/defi",
+                  "integrations/tgapps",
+                  "integrations/web"
                 ]
               }
             ]
