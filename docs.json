@@ -72,8 +72,8 @@
               {
                 "group": "Доходность",
                 "pages": [
-                  "essentials/settings",
-                  "essentials/navigation"
+                  "staking/rubl",
+                  "staking/mt"
                 ]
               },
               {
