@@ -3,8 +3,8 @@
   "name": "lifeyt",
   "description": "Ruble stablecoin for telegram usage | LIFEYT",
   "colors": {
-    "primary": "#ff9523",
-    "light": "#ff9523",
+    "primary": "#2966a2",
+    "light": "#2966a2",
     "dark": "#ff9523"
   },
   "logo": {
