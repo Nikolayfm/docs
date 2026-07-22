@@ -109,12 +109,8 @@
               {
                 "group": "Краткие комментарии",
                 "pages": [
-                  "tgapps",
-                  {
-                    "group": "для web",
-                    "icon": "chrome",
-                    "pages": []
-                  }
+                  "api/tgapps",
+                  "api/web"
                 ]
               }
             ]
