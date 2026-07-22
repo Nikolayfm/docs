@@ -103,17 +103,19 @@
                   "api-reference/endpoint/create",
                   "api-reference/endpoint/delete",
                   "api-reference/endpoint/webhook"
+                ],
+                "hidden": true
+              },
+              {
+                "group": "Краткие комментарии",
+                "pages": [
+                  "dlya-tg-botov-i-mini-appov",
+                  {
+                    "group": "для web",
+                    "icon": "chrome",
+                    "pages": []
+                  }
                 ]
-              },
-              {
-                "group": "для tg-ботов (и мини-аппов)",
-                "icon": "telegram-plane",
-                "pages": []
-              },
-              {
-                "group": "для web",
-                "icon": "chrome",
-                "pages": []
               }
             ]
           },
